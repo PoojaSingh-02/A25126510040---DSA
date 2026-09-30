@@ -5,22 +5,16 @@ int* inorderTraversal(struct TreeNode* root, int* returnSize) {
         return result;
     }
     int* left = inorderTraversal(root->left, returnSize);
-
     for (int i = 0; i < *returnSize; i++) {
         result[i] = left[i];
     }
-
     result[*returnSize] = root->val;
     (*returnSize)++;
-
-    // Right
     int rightSize = 0;
     int* right = inorderTraversal(root->right, &rightSize);
-
     for (int i = 0; i < rightSize; i++) {
         result[*returnSize] = right[i];
         (*returnSize)++;
     }
-
     return result;
 }
