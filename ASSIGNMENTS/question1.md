@@ -49,7 +49,3 @@ int main() {
 
     return 0;
 }
-
-
-## Output
-![Output](output 1.png) 
