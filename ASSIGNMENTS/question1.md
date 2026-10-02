@@ -39,4 +39,6 @@ int main() {
     return 0;
 }
 
-<img width="427" height="301" alt="image" src="https://github.com/user-attachments/assets/606f6d24-2f91-4b2e-95d6-49d03c60f70a" />
+<img width="427" height="301" alt="image" src="https://github.com/user-attachments/assets/606f6d24-2f91-4b2e-95d6-49d03c60f70a" /> 
+<img width="462" height="340" alt="image" src="https://github.com/user-attachments/assets/2cb4a86f-057c-4e36-a567-550599776647" />
+
