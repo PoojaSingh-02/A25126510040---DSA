@@ -12,3 +12,7 @@ int* preorderTraversal(struct TreeNode* root, int* returnSize) {
     preorder(root, result, returnSize);
     return result;
 }
+
+
+<img width="467" height="116" alt="image" src="https://github.com/user-attachments/assets/a3a2edd3-1c9a-47a3-999b-ee6dac8aaced" />
+
