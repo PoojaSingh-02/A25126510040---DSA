@@ -12,3 +12,6 @@ public:
         return searchBST(root->right, val);
     }
 };
+
+
+<img width="520" height="117" alt="image" src="https://github.com/user-attachments/assets/90d9b91a-f132-4f2e-9ade-acbd071ac089" />
