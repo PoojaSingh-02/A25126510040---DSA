@@ -18,3 +18,7 @@ int* inorderTraversal(struct TreeNode* root, int* returnSize) {
     }
     return result;
 }
+
+
+<img width="446" height="112" alt="Screenshot 2026-10-15 161050" src="https://github.com/user-attachments/assets/01070c5b-4149-4752-b807-65caf7fc8753" />
+
