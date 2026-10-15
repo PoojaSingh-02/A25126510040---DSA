@@ -33,3 +33,7 @@ public:
         return input.empty() && output.empty();
     }
 };
+
+
+<img width="387" height="181" alt="image" src="https://github.com/user-attachments/assets/24a06b20-96e4-462b-b42b-fe21fe366207" />
+
